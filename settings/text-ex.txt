@@ -1,0 +1,2 @@
+I use the commmand line text editor nano. How do I undo an action while editing text?
+For example: I typed some text and then changed my mind. Now I want to return to previous state. How?
